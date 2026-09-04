@@ -1,71 +1,76 @@
-🤖 Aplicações de Automação Industrial
+ 🤖 Projeto de Automação Industrial — Robótica
 
 <p align="left">
   <img src="https://img.shields.io/badge/Curso-Automa%C3%A7%C3%A3o%20Industrial-0056B3?style=for-the-badge&logo=gear" alt="Curso Automação Industrial">
-  <img src="https://img.shields.io/badge/Local-Sala%20108-28A745?style=for-the-badge" alt="Sala 108">
+  <img src="https://img.shields.io/badge/Local-Sala%20102-28A745?style=for-the-badge" alt="Sala 102">
 </p>👥 Equipe do Projeto
 
-* nome do integrante
-* nome do integrante
-* Mizael Souto
+- Lucas Ferreira
+- Kaio Thierry
+- Erique
+- Richard
+- Bernardo
 
 ---
 
-🏭 Projeto de Automação Industrial
+🤖 Projeto de Automação Industrial — Robótica
 
 ---
 
 📋 Informações Gerais| 📍 Detalhes
 Curso| Automação Industrial
-Tema| Aplicações da Automação Industrial
-Local / Laboratório| Sala 108
+Tema| Robótica
+Local / Laboratório| Sala 102
 
 👥 Integrantes da Equipe
 
-- nome do integrante
-- nome do integrante
-- Mizael Souto
+- Lucas Ferreira
+- Kaio Thierry
+- Erique
+- Richard
+- Bernardo
 
 ---
 
 📌 Sobre o Projeto
 
-Este projeto aborda a aplicação prática da Automação Industrial, apresentando como máquinas, sensores, controladores e sistemas de comunicação são utilizados para automatizar processos industriais.
+Este projeto apresenta o tema Robótica, destacando sua importância na Automação Industrial. A robótica utiliza máquinas programáveis, sensores e sistemas de controle para realizar tarefas de forma automática, precisa e repetitiva.
 
-A automação industrial permite aumentar a produtividade, segurança, precisão e qualidade dos processos, reduzindo erros e tornando as operações mais eficientes.
-
-O projeto apresenta os principais equipamentos e tecnologias utilizados na automação, desde o sensoriamento e acionamento até o controle e supervisão dos processos industriais.
+Os robôs industriais são utilizados em diferentes setores para aumentar a produtividade, segurança, precisão e eficiência dos processos.
 
 ---
 
-🎯 Aplicações Práticas
+🎯 Aplicações da Robótica
 
-* Linhas de Produção: Automação de máquinas e etapas de fabricação para aumentar a produtividade.
-* Controle de Processos: Monitoramento e controle automático de temperatura, pressão, nível e vazão.
-* Sistemas de Transporte: Utilização de esteiras, motores e sensores para movimentação automática de materiais.
-* Controle de Qualidade: Uso de sensores e sistemas automatizados para identificar falhas e produtos fora dos padrões.
-* Segurança Industrial: Sistemas de proteção e monitoramento para reduzir riscos durante a operação de máquinas.
-
----
-
-⚙️ Pilares e Arquitetura do Sistema
-
-Camada| Tecnologias & Componentes| Função Principal
-Sensoriamento| Sensores de presença, temperatura, pressão e nível| Detectar informações e condições do processo
-Controle| CLPs, microcontroladores e controladores| Processar informações e controlar o sistema
-Acionamento| Motores, inversores de frequência, relés e contatores| Executar as ações determinadas pelo sistema
-Supervisão| IHMs e sistemas SCADA| Monitorar e controlar os processos industriais
-Comunicação| Modbus, Profibus, Profinet e Ethernet Industrial| Permitir a comunicação entre equipamentos
-Segurança| Sensores de segurança, relés e sistemas de emergência| Proteger operadores e equipamentos
+- Montagem Industrial: Robôs realizam a montagem de peças e componentes.
+- Soldagem: Utilização de braços robóticos para realizar soldas com precisão.
+- Pick and Place: Robôs movimentam e organizam objetos em linhas de produção.
+- Pintura Industrial: Robôs aplicam tintas de maneira uniforme e controlada.
+- Controle de Qualidade: Sistemas robóticos podem auxiliar na inspeção de produtos.
+- Transporte de Materiais: Robôs podem movimentar produtos e materiais dentro das fábricas.
 
 ---
 
-🛠️ Tecnologias e Ferramentas
+⚙️ Principais Componentes da Robótica
 
-- Programação e Lógica: Ladder, C/C++ e Python
-- Controladores: CLPs, Arduino, ESP32 e microcontroladores
-- Acionamentos: Motores elétricos, contatores e inversores de frequência
-- Supervisão: IHM e sistemas SCADA
-- Sensores: Presença, temperatura, pressão, nível e proximidade
-- Comunicação Industrial: Modbus, Profibus, Profinet e Ethernet Industrial
-- Simulação e Modelagem: Softwares de simulação e projetos de sistemas automatizados
+Componente| Função
+Sensores| Detectam objetos, posições e condições do ambiente
+Controladores| Processam informações e comandam o robô
+Motores| Produzem os movimentos do robô
+Atuadores| Executam movimentos e ações mecânicas
+Braço Robótico| Realiza movimentos e tarefas programadas
+Software| Permite programar e controlar as ações do robô
+
+---
+
+🛠️ Tecnologias Utilizadas
+
+- Robôs Industriais
+- Braços Robóticos
+- Sensores
+- CLPs
+- Motores e Servomotores
+- Controladores
+- Programação
+- Sistemas de Visão Computacional
+- Esteiras Automatizadas
