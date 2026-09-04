@@ -74,3 +74,10 @@ Software| Permite programar e controlar as ações do robô
 - Programação
 - Sistemas de Visão Computacional
 - Esteiras Automatizadas
+
+
+
+
+
+
+ file:///C:/Users/SEEMG/Downloads/deepseek_html_20260828_eb1a17.html#solucoes
